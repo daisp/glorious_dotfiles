@@ -1,5 +1,3 @@
-# Glorious Dotfiles
-
 My Linux dotfiles.
 
 ## Installation
