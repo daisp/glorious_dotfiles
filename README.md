@@ -1,4 +1,4 @@
-My Linux dotfiles.
+An installer script for my Linux dotfiles.
 
 ## Installation
 1. Place repo directory in your Linux home directory: `/home/<myusername>`.
