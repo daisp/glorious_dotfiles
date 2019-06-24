@@ -16,3 +16,4 @@ jupyteraddress='132.68.39.30:8888'
 alias access-jupyter="ssh -L 9999:$jupyteraddress -J sdaisp@csl2.cs.technion.ac.il sdaisp@rishon.cs.technion.ac.il;"
 alias myaliases="vim ~/.bash_aliases"
 alias mybashrc="vim ~/.bashrc"
+alias popki='ssh -i /home/dais/popki-site/ec2-key-pair.pem ec2-user@35.181.50.141'
